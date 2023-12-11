@@ -2,7 +2,7 @@
 Predicao de Alta hospitalar Empregando hemograma
 
 Link Colab
-https://colab.research.google.com/github/escavadordebits/MVP_ENGDESOFTWARE/blob/main/MVP_PREDICAO%20HOSPITAL
+https://colab.research.google.com/drive/1VUxxgvVg2u_7CP8bw5A5WNUF1oNR6FM0#scrollTo=otEdveLq8Hn0
 
 Objetivos Gerais:
 Obter modelos de predicao sobre a atla hostpitalar.
