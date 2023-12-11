@@ -5,7 +5,7 @@ Link Colab
 https://colab.research.google.com/drive/1VUxxgvVg2u_7CP8bw5A5WNUF1oNR6FM0#scrollTo=otEdveLq8Hn0
 
 Objetivos Gerais:
-Obter modelos de predicao sobre a atla hostpitalar.
+Obter modelos de predicao sobre a ALTA hospitalar.
 
 Base de Dados:
 Para esta implementação foi utilizada base de dados disponilizada por Sadikin, Mujiono (2020), “EHR Dataset for Patient Treatment Classification”, Mendeley Data, V1, doi: 10.17632/7kv3rctx7m.1
