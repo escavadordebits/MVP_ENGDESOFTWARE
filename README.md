@@ -21,6 +21,9 @@ Link para abrir video Parte 1.
 
 https://www.loom.com/share/021060b8d91d4e6a9f020f8fd1585b04?sid=8c4c4665-4b18-4ab6-ab1d-e87b6c9b4c11
 
+Link para abrir video Parte 2.
+https://www.loom.com/share/3acc89ae3d634cdfb6b38c54edd225f8?sid=ebd7c1f6-cfc4-4b64-9063-95a6a3100b35
+
 
 
 
