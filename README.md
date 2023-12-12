@@ -12,9 +12,11 @@ https://github.com/escavadordebits/mvp_eng_software
 Link para abrir a api
 http://127.0.0.1:5000/openapi/swagger
 
+Link para abrir o front end
+
 http://127.0.0.1:5500/front/index.html
 
-L
+
 
 
 Objetivos Gerais:
