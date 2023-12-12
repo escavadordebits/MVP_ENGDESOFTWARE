@@ -4,12 +4,16 @@ Predicao de Alta hospitalar Empregando hemograma
 Link Colab
 https://colab.research.google.com/drive/1VUxxgvVg2u_7CP8bw5A5WNUF1oNR6FM0#scrollTo=otEdveLq8Hn0
 
+Link para abrir o front end e back-end bem como os modelos desenvolvidos no no colab para testes.
+
+
+
 Link para abrir a api
 http://127.0.0.1:5000/openapi/swagger
 
 http://127.0.0.1:5500/front/index.html
 
-Link para abrir o front end e back-end bem como os modelos desenvolvidos no no colab para testes.
+L
 
 
 Objetivos Gerais:
