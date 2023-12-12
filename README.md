@@ -17,6 +17,11 @@ Link para abrir o front end
 http://127.0.0.1:5500/front/index.html
 
 
+Link para abrir video Parte 1.
+
+https://www.loom.com/share/021060b8d91d4e6a9f020f8fd1585b04?sid=8c4c4665-4b18-4ab6-ab1d-e87b6c9b4c11
+
+
 
 
 Objetivos Gerais:
