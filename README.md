@@ -6,6 +6,7 @@ https://colab.research.google.com/drive/1VUxxgvVg2u_7CP8bw5A5WNUF1oNR6FM0#scroll
 
 Link para abrir o front end e back-end bem como os modelos desenvolvidos no no colab para testes.
 
+https://github.com/escavadordebits/mvp_eng_software
 
 
 Link para abrir a api
