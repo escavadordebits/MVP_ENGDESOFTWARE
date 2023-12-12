@@ -9,6 +9,7 @@ http://127.0.0.1:5000/openapi/swagger
 
 http://127.0.0.1:5500/front/index.html
 
+Link para abrir o front end e back-end bem como os modelos desenvolvidos no no colab para testes.
 
 
 Objetivos Gerais:
